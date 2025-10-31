@@ -1,0 +1,5 @@
+
+Microsserviços é uma arquitetura em que se divide os dominios de informações em pequenos seriços auto contidos com baixo acoplamento.
+Em uma posição diferente dos microsserviços, a arquitetura monolita agrega todos os pacotes em uma aplicação unica e com alto acoplamento.
+Como benefícios , podemos listar a alta tolerancia a falhas, escalabilidade e facilidade de implantação  
+As formas de comunicação disponiveis são http, mensageria e eventos
